@@ -1,4 +1,6 @@
-• A two-mode multi-thread web server by extending a simple server framework, which is able to serve massive client requests and generate responses effectively. 
+###c_webserver
+
+A two-mode multi-thread web server by extending a simple server framework, which is able to serve massive client requests and generate responses effectively. 
 
 • Mode 1: create a thread for each request, and free it after done. 
 
